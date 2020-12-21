@@ -1,0 +1,25 @@
+C:\Users\Meysam Resan\Desktop\OnlineStore\bin\Debug\OnlineStore.exe.config
+C:\Users\Meysam Resan\Desktop\OnlineStore\bin\Debug\OnlineStore.exe
+C:\Users\Meysam Resan\Desktop\OnlineStore\bin\Debug\OnlineStore.pdb
+C:\Users\Meysam Resan\Desktop\OnlineStore\obj\Debug\OnlineStore.csprojAssemblyReference.cache
+C:\Users\Meysam Resan\Desktop\OnlineStore\obj\Debug\OnlineStore.CatalogF.resources
+C:\Users\Meysam Resan\Desktop\OnlineStore\obj\Debug\OnlineStore.MainMenuF.resources
+C:\Users\Meysam Resan\Desktop\OnlineStore\obj\Debug\OnlineStore.Properties.Resources.resources
+C:\Users\Meysam Resan\Desktop\OnlineStore\obj\Debug\OnlineStore.ShoppingCartF.resources
+C:\Users\Meysam Resan\Desktop\OnlineStore\obj\Debug\OnlineStore.csproj.GenerateResource.cache
+C:\Users\Meysam Resan\Desktop\OnlineStore\obj\Debug\OnlineStore.csproj.CoreCompileInputs.cache
+C:\Users\Meysam Resan\Desktop\OnlineStore\obj\Debug\OnlineStore.exe
+C:\Users\Meysam Resan\Desktop\OnlineStore\obj\Debug\OnlineStore.pdb
+C:\Users\Meysam Resan\iCloudDrive\Study\KubSTU\Second year\First semester\Software development technologies\Laboratory works\LaboratoryWork5\OnlineStore\bin\Debug\OnlineStore.exe.config
+C:\Users\Meysam Resan\iCloudDrive\Study\KubSTU\Second year\First semester\Software development technologies\Laboratory works\LaboratoryWork5\OnlineStore\bin\Debug\OnlineStore.exe
+C:\Users\Meysam Resan\iCloudDrive\Study\KubSTU\Second year\First semester\Software development technologies\Laboratory works\LaboratoryWork5\OnlineStore\bin\Debug\OnlineStore.pdb
+C:\Users\Meysam Resan\iCloudDrive\Study\KubSTU\Second year\First semester\Software development technologies\Laboratory works\LaboratoryWork5\OnlineStore\obj\Debug\OnlineStore.csprojAssemblyReference.cache
+C:\Users\Meysam Resan\iCloudDrive\Study\KubSTU\Second year\First semester\Software development technologies\Laboratory works\LaboratoryWork5\OnlineStore\obj\Debug\OnlineStore.CatalogF.resources
+C:\Users\Meysam Resan\iCloudDrive\Study\KubSTU\Second year\First semester\Software development technologies\Laboratory works\LaboratoryWork5\OnlineStore\obj\Debug\OnlineStore.MainMenuF.resources
+C:\Users\Meysam Resan\iCloudDrive\Study\KubSTU\Second year\First semester\Software development technologies\Laboratory works\LaboratoryWork5\OnlineStore\obj\Debug\OnlineStore.Properties.Resources.resources
+C:\Users\Meysam Resan\iCloudDrive\Study\KubSTU\Second year\First semester\Software development technologies\Laboratory works\LaboratoryWork5\OnlineStore\obj\Debug\OnlineStore.ShoppingCartF.resources
+C:\Users\Meysam Resan\iCloudDrive\Study\KubSTU\Second year\First semester\Software development technologies\Laboratory works\LaboratoryWork5\OnlineStore\obj\Debug\OnlineStore.csproj.GenerateResource.cache
+C:\Users\Meysam Resan\iCloudDrive\Study\KubSTU\Second year\First semester\Software development technologies\Laboratory works\LaboratoryWork5\OnlineStore\obj\Debug\OnlineStore.csproj.CoreCompileInputs.cache
+C:\Users\Meysam Resan\iCloudDrive\Study\KubSTU\Second year\First semester\Software development technologies\Laboratory works\LaboratoryWork5\OnlineStore\obj\Debug\OnlineStore.exe
+C:\Users\Meysam Resan\iCloudDrive\Study\KubSTU\Second year\First semester\Software development technologies\Laboratory works\LaboratoryWork5\OnlineStore\obj\Debug\OnlineStore.pdb
+C:\Users\Meysam Resan\iCloudDrive\Study\KubSTU\Second year\First semester\Software development technologies\Laboratory works\LaboratoryWork5\OnlineStore\obj\Debug\OnlineStore.ClientInformationF.resources
