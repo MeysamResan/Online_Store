@@ -12,6 +12,7 @@ namespace OnlineStore
 {
     public partial class MainMenuF : Form
     {
+        public int count; // GitHub thing
         public MainMenuF()
         {
             InitializeComponent();
